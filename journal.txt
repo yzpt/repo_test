@@ -1,3 +1,7 @@
 Ceci est ma première contribution au repo.
 
 git init
+git add .
+git commit -m "first commit"
+
+Ici j'écris une ligne pour osberver le nouveau commit
