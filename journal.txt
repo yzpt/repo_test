@@ -1,0 +1,3 @@
+Ceci est ma première contribution au repo.
+
+git init
