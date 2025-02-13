@@ -5,3 +5,11 @@ git add .
 git commit -m "first commit"
 
 Ici j'écris une ligne pour osberver le nouveau commit
+
+git branch -M main
+
+git remote add origin https://github.com/yzpt/repo_test.git
+git remote show
+git remote show origin
+
+git push -u origin main
